@@ -1,0 +1,35 @@
+body{
+
+background-image: url(../img/img2.jpg);
+background-repeat: no-no-repeteat;
+background-size: cover;
+background-attachment: fixed;
+
+}
+
+.formulario{
+
+  background: rgba(0, 0, 0, 0.2);
+  padding: 20 px;
+  border-radius: 10 px;
+
+}
+
+.Ingresar{
+
+  background: #0A1850;
+  text-align:center;
+  align-content: center;
+  padding: 10 px;
+}
+
+
+.form-control{
+  background: rgba(0, 0, 0, 0.1);
+  border-style: none;
+}
+
+.form-control::placeholder{
+color:white;
+
+}
